@@ -1,1 +1,3 @@
 <h3>O E-relations é um sistema web básico ainda em desenvolvimento que tem como objetivo auxiliar no gerenciamento/organziação de dados de um ecommerce. Suas principais funcionalidades estão direcionadas para atendimento ao cliente, guardando e fazendo análises de dados para que a empresa busque melhoras nesse setor.</h3>
+<img src="https://github.com/thayanemenezes/E-relations/blob/main/assets/print-1.png">
+<h3> Com esse sistema, será mais prático ter um controlo de reclamações (e motivações), controle por meio de relatórios, gerenciamento e organização dos clientes. </h3<
